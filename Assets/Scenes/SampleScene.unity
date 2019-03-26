@@ -654,6 +654,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9dd2ddf4020e59479e64efc862fc507, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _image: {fileID: 2800000, guid: 1aed2409e9d235a4d8f0cf2faf3f55f6, type: 3}
   _button: {fileID: 814403065}
   _cSound: {fileID: 0}
 --- !u!4 &927273155
